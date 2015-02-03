@@ -1,2 +1,5 @@
 # hello-world
-Getting started repository
+
+=============
+
+Hello github, just going through tutorial one.
